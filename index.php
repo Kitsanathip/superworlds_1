@@ -138,7 +138,7 @@ if (isset($_SESSION['cart'])) {
     </div> </div>
 
 <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p class="mb-0">© 2026 Focus Sport Store. All Rights Reserved.</p>
+    <p class="mb-0">© 2026 Super Worlds Store. All Rights Reserved.</p>
 </footer>
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     
@@ -174,4 +174,5 @@ if (isset($_SESSION['cart'])) {
     </script>
 </body>
 </html>
+
 
